@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+img {
+  width: 80%;
+}
+
+.container {
+  border-radius: 50px;
+}
+
+p {
+  font-family: 'Bree Serif', sans-serif;
+}
+
+h1 {
+  font-family: 'Bree Serif', sans-serif;
+}
